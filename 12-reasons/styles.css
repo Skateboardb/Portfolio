@@ -1,0 +1,25 @@
+body{
+	background-color:#3d434c;
+	font-family: 'Roboto', sans-serif;
+}
+
+.intro{
+	font-weight:400;
+}
+
+.container {
+	background-color:#fefff9;
+	margin:auto;
+	padding:5%;
+	width: 60%;
+}
+
+.entry{
+	margin-top:100px;
+}
+img{
+	width: 100%;
+	padding:1px;
+   border:1px solid #3d434c;
+   background-color:#fefff9;
+}
